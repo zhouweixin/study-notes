@@ -1,3 +1,8 @@
+# git命令之从本地提交到github
+---
+
+![整体命令图](git-push-command-1.png)
+
 # 1.建立git仓库
 
 在文件夹下, 执行命令
