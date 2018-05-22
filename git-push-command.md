@@ -38,6 +38,13 @@ git commit -m "注释内容"
 git remote add origin 仓库url
 ```
 
+**注： 假如出现错误【fatal: remote origin already exists.】**
+
+```
+git remote rm origin
+git remote add origin 仓库url
+```
+
 # 6.从github上拉取内容
 
 ```
@@ -49,3 +56,4 @@ git pull origin master
 ```
 git push -u origin master
 ```
+
